@@ -8,3 +8,11 @@ Started GET "/" for ::1 at 2015-11-17 17:47:54 -0600
 Processing by Rails::WelcomeController#index as HTML
   Rendered /Users/admin/.rvm/gems/ruby-2.1.2/gems/railties-4.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
 Completed 200 OK in 27ms (Views: 19.4ms | ActiveRecord: 0.0ms)
+Started GET "/" for ::1 at 2021-04-20 22:04:23 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/freedomscheyd/.rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/freedomscheyd/.rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb (7.6ms)
+Completed 200 OK in 53ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
